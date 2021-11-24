@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **luoshuai990529/luoshuai990529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 我是罗帅 Lewis
+## 我是罗帅 Lewis 👋
 
 - 🐧 99年前端开发 
 - 🌱 坐标：广州
