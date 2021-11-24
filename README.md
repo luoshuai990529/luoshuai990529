@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 我是罗帅 🐟
+## 我是罗帅 Lewis
 
-- 🐧 99年前端开发工程师 坐标：广州
+- 🐧 99年前端开发 
+- 🌱 坐标：广州
+- ⚡ 爱好：音乐、电影、各种新鲜事物
 - 💬 微信：ls1029113525
 
 ## 今年汇总 ✨
