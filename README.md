@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 我是罗帅 Lewis 👋
+## Hi 我叫罗帅 Lewis 👋
 
 - 🐧 99年前端开发 
 - 🌱 坐标：广州
