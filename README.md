@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Hi 我叫罗帅 Lewis 👋
 
-- 🐧 99年前端开发 
+- 🐧 前端开发 
 - 🌱 坐标：广州
 - ⚡ 爱好：吉他、音乐、电影、各种新鲜事物
 - 💬 微信：ls1029113525
