@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👋 Welcome to localhost:Buu. I have root access here.
-- 📍：GuangZhou
-- 💬：Buu_99y
+- 📍City：GuangZhou
+- 💬Weixin：Buu_99y
