@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi 我叫罗帅 Lewis 👋
-
-- 💻 前端开发 
+## Hi Welcome to localhost:Buu. I have root access here.👋
 - 🌱 坐标：广州
-- ⚡ 爱好：吉他、音乐、电影、健身
 - 💬 微信：Buu_99y
