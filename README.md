@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi Welcome to localhost:Buu. I have root access here.👋
-- 🌱 坐标：广州
-- 💬 微信：Buu_99y
+## 👋 Welcome to localhost:Buu. I have root access here.
+- 📍：GuangZhou
+- 💬：Buu_99y
